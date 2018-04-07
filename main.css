@@ -8,8 +8,42 @@ h1{
   padding-left:16px;
   padding-top:14px;
 }
+
 .app-bar{
    height: 56px;
    background-color: #009688;
    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.24), 0 0 4px 0 rgba(0, 0, 0, 0.12);
 }
+
+h3{
+  font-size: 14px;
+  text-align: left;
+  color: #009789;
+  padding-left:16px;
+  padding-top:14px;
+  padding-bottom:15px;
+}
+
+.file-list-item{
+  font-size: 16px;
+  text-align: left;
+  color: rgba(0, 0, 0, 0.87);
+  padding-left:16px;
+  padding-bottom:22px;
+  border-bottom:solid 1px rgba(0, 0, 0, 0.12);
+}
+
+.user-list-item{
+  font-size: 16px;
+  text-align: left;
+  color: rgba(0, 0, 0, 0.87);
+  padding-left:16px;
+  padding-bottom:22px;
+  border-bottom: solid 1px rgba(0, 0, 0, 0.12);
+}
+
+.note-section{
+  font-size: 14px;
+  padding-left:16px;
+}
+
